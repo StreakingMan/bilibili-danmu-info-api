@@ -1,0 +1,24 @@
+{
+  "name": "bilibili-danmu-info-api",
+  "version": "1.0.0",
+  "description": "bilibili damu info api node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreakingMan/bilibili-danmu-info-api.git"
+  },
+  "keywords": [
+    "bilibili",
+    "danmu",
+    "node"
+  ],
+  "author": "max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StreakingMan/bilibili-danmu-info-api/issues"
+  },
+  "homepage": "https://github.com/StreakingMan/bilibili-danmu-info-api#readme"
+}
